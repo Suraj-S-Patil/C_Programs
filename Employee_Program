@@ -1,3 +1,5 @@
+// Program which takes name, address, salary, date of birth of the employee and 
+// gives the age of employee when joined the company, experience in months and probation period of the employee.
 #include <stdio.h>
 #include<time.h>
 #include<stdlib.h>
